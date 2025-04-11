@@ -1,0 +1,7 @@
+Following are the advantages of the covariant return type.
+
+1) Covariant return type assists to stay away from the confusing type casts in the class hierarchy and makes the code more usable, readable, and maintainable.
+
+2) In the method overriding, the covariant return type provides the liberty to have more to the point return types.
+
+3) Covariant return type helps in preventing the run-time ClassCastExceptions on returns.

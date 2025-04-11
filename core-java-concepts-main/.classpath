@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="abstraction-with-classes/src"/>
+	<classpathentry kind="src" path="abstration/src"/>
+	<classpathentry kind="src" path="casting-example/src"/>
+	<classpathentry kind="src" path="constructor-example/src"/>
+	<classpathentry kind="src" path="diamond-problem-solution/src"/>
+	<classpathentry kind="src" path="encapsulation-example/src"/>
+	<classpathentry kind="src" path="enum-example/src"/>
+	<classpathentry kind="src" path="exception-examples/src"/>
+	<classpathentry kind="src" path="functional-interface/src"/>
+	<classpathentry kind="src" path="general-module/src"/>
+	<classpathentry kind="src" path="generics-example/src"/>
+	<classpathentry kind="src" path="immutable-example/src"/>
+	<classpathentry kind="src" path="inner-and-anonymous-classes-examples/src"/>
+	<classpathentry kind="src" path="java-optional-examples/src"/>
+	<classpathentry kind="src" path="lambda-expression-examples/src"/>
+	<classpathentry kind="src" path="loose-coupling-example/src"/>
+	<classpathentry kind="src" path="pass-by-value/src"/>
+	<classpathentry kind="src" path="polymorphism/src"/>
+	<classpathentry kind="src" path="streams-example/src"/>
+	<classpathentry kind="src" path="string-example/src"/>
+	<classpathentry kind="src" path="wrapper-classes-examples/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

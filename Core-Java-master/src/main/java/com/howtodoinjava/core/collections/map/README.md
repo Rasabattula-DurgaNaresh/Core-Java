@@ -1,0 +1,13 @@
+# Related Tutorials on [howtodoinjava.com](https://howtodoinjava.com/)
+
+* [Merge Two Maps](https://howtodoinjava.com/java/collections/hashmap/merge-two-hashmaps/)
+* [Java WeakHashMap](https://howtodoinjava.com/java/collections/java-weakhashmap/)
+* [Java IdentityHashMap](https://howtodoinjava.com/java/collections/java-identityhashmap/)
+* [Java Nested Map](https://howtodoinjava.com/java/collections/java-nested-map/)
+* [Java EnumMap](https://howtodoinjava.com/java/collections/java-enummap/)
+* [Java SubMap](https://howtodoinjava.com/java/collections/java-submap/)
+* [Inverting a Map In Java](https://howtodoinjava.com/java/collections/invert-java-map/)
+* [Convert List to Map](https://howtodoinjava.com/java/collections/convert-list-to-map/)
+* [Find Smallest and Largest Value in a Map](https://howtodoinjava.com/java/collections/hashmap/smallest-largest-value-in-map/)
+* [Java ConcurrentSkipListMap](https://howtodoinjava.com/java/collections/concurrentskiplistmap/)
+* [Java Map computeIfAbsent()](https://howtodoinjava.com/java/collections/hashmap/map-computeifabsent/)

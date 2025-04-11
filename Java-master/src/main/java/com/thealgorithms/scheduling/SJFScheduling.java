@@ -2,6 +2,7 @@ package com.thealgorithms.scheduling;
 
 import com.thealgorithms.devutils.entities.ProcessDetails;
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Implementation of Shortest Job First Algorithm: The algorithm allows the waiting process with the
@@ -13,6 +14,18 @@ public class SJFScheduling {
     protected ArrayList<ProcessDetails> processes;
     protected ArrayList<String> schedule;
 
+    private static void sortProcessesByArrivalTime(List<ProcessDetails> processes) {
+        for (int i = 0; i < processes.size(); i++) {
+            for (int j = i + 1; j < processes.size() - 1; j++) {
+                if (processes.get(j).getArrivalTime() > processes.get(j + 1).getArrivalTime()) {
+                    final var temp = processes.get(j);
+                    processes.set(j, processes.get(j + 1));
+                    processes.set(j + 1, temp);
+                }
+            }
+        }
+    }
+
     /**
      * a simple constructor
      * @param processes a list of processes the user wants to schedule
@@ -21,22 +34,10 @@ public class SJFScheduling {
     SJFScheduling(final ArrayList<ProcessDetails> processes) {
         this.processes = processes;
         schedule = new ArrayList<>();
-        sortByArrivalTime();
+        sortProcessesByArrivalTime(this.processes);
     }
     protected void sortByArrivalTime() {
-        int size = processes.size();
-        int i;
-        int j;
-        ProcessDetails temp;
-        for (i = 0; i < size; i++) {
-            for (j = i + 1; j < size - 1; j++) {
-                if (processes.get(j).getArrivalTime() > processes.get(j + 1).getArrivalTime()) {
-                    temp = processes.get(j);
-                    processes.set(j, processes.get(j + 1));
-                    processes.set(j + 1, temp);
-                }
-            }
-        }
+        sortProcessesByArrivalTime(processes);
     }
 
     /**
@@ -87,7 +88,7 @@ public class SJFScheduling {
      * @return returns the process' with the shortest burst time OR NULL if there are no ready
      *     processes
      */
-    private ProcessDetails findShortestJob(ArrayList<ProcessDetails> readyProcesses) {
+    private ProcessDetails findShortestJob(List<ProcessDetails> readyProcesses) {
         if (readyProcesses.isEmpty()) {
             return null;
         }

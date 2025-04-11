@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CoreJava/ATM/src/main/java"/>
+	<classpathentry kind="src" path="CoreJava/beyblade/src/main/java"/>
+	<classpathentry kind="src" path="CoreJava/MathAndPhysics/src/main/java"/>
+	<classpathentry kind="src" path="CoreJava/socketBasedChat-master/SocketBasedChat/src"/>
+	<classpathentry kind="src" path="java101/src"/>
+	<classpathentry excluding="bootcampExercises/" kind="src" path="java102/src"/>
+	<classpathentry kind="src" path="java102/src/bootcampExercises"/>
+	<classpathentry kind="src" path="StreamSolutions"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,6 @@
+there are also other ways to create an object in java :-
+# By new KeyWord
+# By newInstance() method
+# By Clone method
+# By deserialization
+# bY factory method

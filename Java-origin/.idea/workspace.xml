@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7dc7f894-1fe7-4e13-aa50-ade1f4e3c948" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/advancedlambdas/ArrayReferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/advancedlambdas/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/advancedlambdas/ReferenceUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/advancedlambdas/References.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/advancedstreams/CustomCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/advancedstreams/GroupingAndPartitioning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/advancedstreams/Stats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/domain/Actor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/domain/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/domain/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/domain/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/domain/EncryptedTrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/domain/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/domain/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/domain/Patient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/domain/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/domain/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/domain/Trade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/domain/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/functions/Consumers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/functions/Functions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/functions/Predicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/functions/RecurringFunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/functions/Suppliers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/interfaces/Diner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/interfaces/DinerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/interfaces/InheritanceRules.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/interfaces/InheritanceRules2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/interfaces/InheritingBehaviour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/interfaces/Interfaces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/interfaces/IntersectionTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/introducinglambdas/DissectingLambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/introducinglambdas/GreetingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/introducinglambdas/LambdaTasters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/introducinglambdas/TradeMerger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/introduction/Examples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/introduction/Runnables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/introduction/Streaming.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/newfeatures/Component.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/newfeatures/Finder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/newfeatures/ParallelStreamsFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/newfeatures/StreamsFeature.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/newfeatures/TradableLambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/newfeatures/TradableLambdaUsingPredicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/parallellstreams/ParallelStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/parallellstreams/PerformanceMeasurement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/specialisedfunctions/BiConsumers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/specialisedfunctions/BiFunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/specialisedfunctions/BiPredicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/specialisedfunctions/Primitives.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/specialisedfunctions/SpecialisedFunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/streamoperations/OptionalType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/streamoperations/StreamCommonOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/streams/DissectingStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/streams/StreamsBasics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/util/EmployeeUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/util/MovieUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/util/TradeUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/workingwithlambdas/CapturingLambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/workingwithlambdas/EffectivelyFinalLambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/workingwithlambdas/LambdaAnonymousScope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/workingwithlambdas/LambdaRedeclaringVariables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/workingwithlambdas/LambdaThisStaticSuperAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/workingwithlambdas/SuperScope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/workingwithstreams/CreatingStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/workingwithstreams/IterationStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/workingwithstreams/LazyAndEagerStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AllAboutLambdas-master/src/com/madhusudhan/wr/allaboutlambdas/workingwithstreams/PrimitiveStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/a_movement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/ali_and_helping_people.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/aman_and_mrSharma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/anagrams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/arithmetic_progression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/back_to_school.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/best_index.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/book_of_portion" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/bricks_game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/char_sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/cipher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/conject_it.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/cost_of_balloons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/count_divisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/divisibility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/divisible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/doctors_secret.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/duration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/e-maze-in.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/find_product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/friend's_relationship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/goki_and_his_breakup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/i_am_easy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/its_magic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/ladderophilia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/life_queries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/life_theUniverse_and_everything.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/magical_word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/minimize_cost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/number_of_steps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/palindromic_string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/play_with_numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/print_the_numbers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/roy-and-profile-picture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/seating_arrangement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/seven_segment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/split_Houses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/teddy_and_tweety" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/toggle_string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/two_strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/vc_pairs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/Basic input output/zoos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/ComplexityAnalysis/a+b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/ComplexityAnalysis/vowel_recognition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/basics  of operators/birthday_party.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/basics  of operators/going_to_office.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/(problem_b)_pikachu_vs_team_meowtic_and_helping_hands.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/Aryan_subsequences_and_greate_Xor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/Flash_vs_Katmos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/cyclic_shifts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/determining_numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/help_your_roommate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/jarvis_and_lone_integer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/monk's_choice_of_numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/monk_and_his_friend.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/monk_and_task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/mystery(31).java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/mystery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/player_of_next_match.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/poisonous_gas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/rajan_and_odd_frequency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/sherlock_and_xor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/shubham_and_binary_string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/the_castle_gate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/the_rise_of_jabari.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/xor_and_project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/bit manipulation/xsquare_and_two_string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/Long_atm_queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/add_alternate_element_of_2dimensional_array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/b)_team_selection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/bela_jornada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/bracket_sequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/dedication_level=infinity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/digital_sequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/find_the_string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/finding_the_subarrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/grid_and_phrase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/hamiltonian_and_lagrangian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/help_jarvis!.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/in_an_array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/left_or_right.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/mark_the_answer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/maximize_the_earning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/maximum_and_xor_or.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/maximum_of_k-size_subarray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/micro_and_array_update.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/modify_sequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/neutralisation_of_charges.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/not_in_range" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/polygon_possibility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/prasn_the_detective.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/r-r-riddikulus!.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/roy_and_symmetric_logos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/speed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/strange_game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/takeoff.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/data Structure/Arrays/the_wealthy_lanndlord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/Array_Insert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/Batman-Tick-tack-toe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/Binary_associativity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/COUNT_NUMBER.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/Hawkeye_and_floodfill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/Jarvis_and_seven_segment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/Magical_Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/String_Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/The_dice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/addition_ain't_simple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/array_sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/bob_and_bomb.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/case_conversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/city_group.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/city_travel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/color_the_boxes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/complete_the_syllabus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/countries_grouping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/digit_problem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/distribute_chocolate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/diwali_celebration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/final_destination.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/find_the_pattern" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/fitting_circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/little_jhool_and_psychicPowers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/min_max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/minimum_move.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/number_of_arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/one_string_no_trouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/plus_plus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/pradyumn_and_cyclic_string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/print_hackerearth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/ques2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/ques6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/rain_sound.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/round_table_killer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/set_numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/shreya_and_non-palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/string_sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/the_great_kian.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/the_prime_cells.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/trilogy-b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerEarthSolutions-master/implementation/war.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/HackerRank-Algorithms-Java8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task009.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task011.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task012.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task013.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task014.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task015.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task016.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task017.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task018.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task019.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task020.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task021.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task022.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task024.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task025.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task026.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task027.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task028.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task029.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task030.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task031.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task032.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task033.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task034.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task035.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task036.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task037.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task038.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task039.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task040.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task041.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task042.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task043.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task044.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task045.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task046.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task047.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task048.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task049.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task050.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task051.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task052.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task053.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task054.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task055.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task056.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task057.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task058.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task059.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/task060.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/taskCavityMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/taskFairRations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/taskManasaAndStones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank-Algorithms-Java8-master/test_res.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task26.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task27.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task28.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task29.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task30.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task31.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task32.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task33.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task34.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task35.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task36.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task37.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task38.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task39.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task40.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task41.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task42.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task43.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task44.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task45.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task46.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task48.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task49.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task50.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task51.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task52.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task53.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task54.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task55.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task56.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task57.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task58.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task59.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task60.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task61.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task62.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task63.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Hackerrank---Java-training-solutions-master/task64.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/readme.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/datetime/ChronoUnits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/datetime/Date.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/datetime/DateUtilities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/datetime/Java8Date.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/datetime/LocalTimeEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/datetime/PeriodAndDuration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/datetime/TemporalAdjuster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/datetime/Zone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/defaultstatic/AddressImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/defaultstatic/IAddress1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/defaultstatic/IAddress2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/fileio/FilesWithStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/java8/Limit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/java8/Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/java8/OptionalExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/java8/SampleClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/java8/Samples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/java8/StreamPractise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practise/individualprograms/IterationUsingStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practise/individualprograms/LimitObjectCreation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practise/individualprograms/MapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practise/individualprograms/TicTacToe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practise/temp/Practise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practise/temp/SampleFunctional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practiseprogram/CustomConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practiseprogram/CustomFunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practiseprogram/CustomPredicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practiseprogram/DefaultAndStaticMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practiseprogram/FlatMapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practiseprogram/IterationUsingStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practiseprogram/MapVsFlatMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/practiseprogram/SupplierExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/temp/AnotherClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/temp/CloseableExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/temp/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/temp/SampleClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/temp/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/temp/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/temp/serialize/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/temp/serialize/Receiver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/temp/serialize/Sender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/java8/Greeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/java8/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/java8/HelloWorldGreeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/java8Lambda/Greeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/java8Lambda/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/java8Lambda/HelloWorldGreeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/java8LambdaInlineClass/Greeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/java8LambdaInlineClass/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/java8LambdaInlineClass/HelloWorldGreeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/runnable/Greeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/runnable/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/runnable/HelloWorldGreeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/typeinterface/Greeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/typeinterface/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/typeinterface/HelloWorldGreeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/unit1exercise/Exercise1UsingJava7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/unit1exercise/Exercise1UsingJava8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit1practise/unit1exercise/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit2practise/java8Predicates/ClosureExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit2practise/java8Predicates/ExceptionHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit2practise/java8Predicates/ThisReferenceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit2practise/java8Predicates/UsingConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit2practise/java8Predicates/UsingPredicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit3practise/CollectionIterationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit3practise/MethodReferenceExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit3practise/MethodReferenceExample2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-8-master/src/main/java/com/unit3practise/StreamsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/appa/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/appa/Authors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/appa/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/appc/StreamForker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/appc/StreamForkerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/appd/InnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/appd/Lambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap1/FilteringApples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap10/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap10/Insurance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap10/OperationsWithOptional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap10/OptionalMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap10/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap10/ReadPositiveIntParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap11/AsyncShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap11/AsyncShopClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap11/BestPriceFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap11/BestPriceFinderMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap11/Discount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap11/ExchangeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap11/Quote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap11/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap11/Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap11/v1/BestPriceFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap11/v1/BestPriceFinderMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap11/v1/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap11/v1/ShopMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap12/DateTimeExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap13/Recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap13/SubsetsMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap14/Combinators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap14/Currying.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap14/LazyLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap14/PatternMatching.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap14/PersistentTrainJourney.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap14/PersistentTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap2/FilteringApples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap2/MeaningOfThis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap3/ExecuteAround.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap3/Lambdas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap3/Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap4/Dish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap4/StreamBasic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap4/StreamVsCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap5/BuildingStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap5/Filtering.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap5/Finding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap5/Laziness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap5/Mapping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap5/NumericStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap5/PuttingIntoPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap5/Reducing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap5/Trader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap5/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap6/CollectorHarness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap6/Dish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap6/Grouping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap6/GroupingTransactions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap6/PartitionPrimeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap6/Partitioning.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap6/Reducing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap6/Summarizing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap6/ToListCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap7/ForkJoinSumCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap7/ParallelStreamBenchmark.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap7/ParallelStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap7/ParallelStreamsHarness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap7/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap8/ChainOfResponsibilityMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap8/Debugging.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap8/FactoryMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap8/ObserverMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap8/OnlineBanking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap8/OnlineBankingLambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap8/Peek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap8/StrategyMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap9/Ambiguous.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap9/Diamond.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap9/Drawable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap9/Ellipse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap9/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap9/Intro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap9/Letter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap9/MostSpecific.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap9/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap9/Resizable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap9/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap9/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/chap9/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/dsl/Grouping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/dsl/LambdaOrderBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/dsl/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/dsl/MethodChainingOrderBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/dsl/Mixed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/dsl/MixedBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/dsl/NestedFunctionOrderBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/dsl/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/dsl/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/dsl/model/Stock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/dsl/model/Tax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/java/lambdasinaction/dsl/model/Trade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/resources/lambdasinaction/chap3/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8InAction-master/src/main/resources/lambdasinaction/chap5/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cardRecognition-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../cardRecognition-master/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../concurrency-in-practice-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrency-in-practice-master/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../concurrency-in-practice-master/src/com/github/vlsidlyarevich/concurrency_practice/dining_philosophers/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/../concurrency-in-practice-master/src/com/github/vlsidlyarevich/concurrency_practice/dining_philosophers/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter2/Question2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter2/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter3/FilterUsingReduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter3/MapUsingReduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter3/Question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter3/Question2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter3/StringExercises.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter3/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter4/ArtistsFixed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter4/Performance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter4/PerformanceFixed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter4/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter5/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter5/GroupingBy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter5/LongestName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter5/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter5/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter6/BuggyReduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter6/OptimisationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter6/OptimisationExampleFixed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter6/SerialToParallel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter6/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter9/ArtistAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter9/BlockingArtistAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter9/CallbackArtistAnalyser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter9/CompletableFutureArtistAnalyser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/answers/chapter9/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter1/Album.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter1/Artist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter1/Chapter1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter1/MusicChapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter1/Performance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter1/SampleData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter1/Track.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter2/ArrayExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter2/CaptureCompileError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter3/Decisions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter3/Functional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter3/GeneratingStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter3/Iteration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter3/Refactor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter3/StreamExercises.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/Carriage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/ChildImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/Jukebox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/MusicalCarriage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/OrderDomain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/OrderImperative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/OrderStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/OverridingChild.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/OverridingParent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/ParentImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/Primitives.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter4/Rockable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter5/CollectorExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter5/MethodReferences.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter5/Niceties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter5/StringCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter5/StringCombiner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter5/StringExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter5/mutable_custom/AlbumSale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter5/mutable_custom/AlbumSalesCollector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter5/mutable_custom/AlbumSalesReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter5/mutable_custom/CollectorExpansions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter5/mutable_custom/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter6/ArrayExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter6/ArraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter6/DiceRolls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter6/IntegerSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter6/ManualDiceRolls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter6/MovingAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter6/WordCounting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter7/Testing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/DependencyInversionPrinciple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/HeadingLookupException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/OpenClosedPrinciple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/SingleResponsibilityPrinciple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/command/Action.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/command/Close.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/command/Editor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/command/Macro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/command/Open.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/command/Save.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/observer/Aliens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/observer/LandingObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/observer/Moon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/observer/Nasa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/strategy/CompressionStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/strategy/Compressor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/strategy/GzipCompressionStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/strategy/ZipCompressionStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/ApplicationDenied.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/lambdas/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/lambdas/CompanyLoanApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/lambdas/Criteria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/lambdas/LoanApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/traditional/CompanyLoanApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/traditional/EmployeeLoanApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/traditional/LoanApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/traditional/PersonalLoanApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter9/AlbumLookup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter9/AlbumLookupException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter9/CompletableAlbumLookup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter9/Credentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter9/FutureAlbumLookup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/examples/chapter9/RxExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/ExerciseNotCompletedException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/Exercises.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter2/Question2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter2/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter3/FilterUsingReduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter3/MapUsingReduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter3/Question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter3/Question2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter3/StringExercises.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter3/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter4/Artists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter4/Performance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter4/PerformanceFixed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter4/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter5/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter5/GroupingBy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter5/LongestName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter5/WordCount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter5/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter6/BuggyReduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter6/OptimisationExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter6/SerialToParallel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter6/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter9/ArtistAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter9/BlockingArtistAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter9/CallbackArtistAnalyser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter9/CompletableFutureArtistAnalyser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/java/com/insightfullogic/java8/exercises/chapter9/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/resources/com/insightfullogic/java8/examples/chapter02/Function.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/main/resources/com/insightfullogic/java8/examples/chapter6/huckleberry_finn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter2/Question2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter3/FilterUsingReduceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter3/MapUsingReduceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter3/Question1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter3/Question2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter3/StringExercisesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter4/ArtistsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter4/PerformanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter5/FibonacciTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter5/GroupingByTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter5/LongestNameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter5/WordCountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter6/BuggyReduceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter6/SerialToParallelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter9/ArtistAnalyzerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter9/BlockingArtistAnalyzerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/answers/chapter9/FakeLookupService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter1/TestPerformance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter2/LambdaExercises.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter2/LambdaExpressions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter3/HigherOrderFunctionExamplesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter3/IterationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter3/RefactorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter3/StreamExercisesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter4/MusicalCarriageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter4/OptionalExampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter4/PrimitivesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter4/TestDefaultSubClassing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter4/TestOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter5/EncounterOrderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter5/StringCollectorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter5/StringCombinerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter5/StringExamplesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter6/ArrayExamplesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter6/MovingAverageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter7/OrderDomainExampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter7/TestingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/DependencyInversionPrincipleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/SingleResponsibilityPrincipleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/command/MacrosTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/command/MockEditor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/Description.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/Lets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/Specification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/Suite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/example/StackSpec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/expectations/BoundExpectation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/expectations/CollectionExpectation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/expectations/Expect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/reporting/ConsoleFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/reporting/Report.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/reporting/ReportFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/reporting/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/reporting/SpecificationReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/reporting/SuiteReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter8/template_method/TraditionalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter9/AlbumLookupTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/examples/chapter9/RxExamplesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter2/Question2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter3/FilterUsingReduceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter3/MapUsingReduceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter3/Question1Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter3/Question2Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter3/StringExercisesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter4/ArtistsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter4/PerformanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter5/FibonacciTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter5/GroupingByTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter5/LongestNameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter5/WordCountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter6/BuggyReduceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter6/SerialToParallelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter9/ArtistAnalyzerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter9/BlockingArtistAnalyzerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/java/com/insightfullogic/java8/exercises/chapter9/FakeLookupService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-lambdas-exercises-master/src/test/resources/com/insightfullogic/java8/examples/chapter8/test_file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/predefined-date-formatters.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/GreetingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/LambdaExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/classes/CollectorsClassExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/classes/ForEachMethodExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/classes/OptionalClassExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/classes/StringJoinerClassExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/CompareTwoDatesInJava8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/ConvertStringToLocalDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/DateTimeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/FlightZoneDateTimeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/Java8DateUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/LocalDateFormat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/LocalDateTimeFormat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/TimeZoneId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/UseDuration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/UseLocalDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/UseLocalDateTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/UseLocalTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/UsePeriod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/UseToInstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/datetime/UseZonedDateTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/defaultstaticinterfacemethods/DefaultInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/defaultstaticinterfacemethods/TestJava8Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/defaultstaticinterfacemethods/impl/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/defaultstaticinterfacemethods/impl/Motorbike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/defaultstaticinterfacemethods/impl/MultiAlarmCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/defaultstaticinterfacemethods/interfaces/Alarm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/defaultstaticinterfacemethods/interfaces/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/functionalInterfaces/BiConsumersExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/functionalInterfaces/BiFunctionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/functionalInterfaces/ConsumersExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/functionalInterfaces/FunctionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/functionalInterfaces/FunctionalInterfacesExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/functionalInterfaces/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/functionalInterfaces/PredicateExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/functionalInterfaces/SuppliersExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/lambda/JLEComparatorExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/lambda/JLEExampleMultipleParameters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/lambda/JLEExampleMultipleStatements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/lambda/JLEExampleNoParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/lambda/JLEExampleRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/lambda/JLEExampleSingleParameter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/lambda/JLEExampleWithORWithOutReturnKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/lambda/LambdaEventListenerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/lambda/LambdaExpressionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/methodreferences/ReferenceToConstructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/methodreferences/ReferenceToInstanceMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/methodreferences/ReferenceToStaticMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/methodreferences/ReferenceToStaticMethod2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/streamAPI/ConvertListToMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/streamAPI/ConvertListToSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/streamAPI/FilteringAndIteratingCollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/streamAPI/FindMaxAndMinMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/streamAPI/JavaStreamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/streamAPI/MethodReferenceInStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/streamAPI/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-8-tutorial-master/src/com/ramesh/java8/streamAPI/SumByUsingCollectorsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/res/nashorn1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/res/nashorn10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/res/nashorn2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/res/nashorn3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/res/nashorn4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/res/nashorn5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/res/nashorn6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/res/nashorn7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/res/nashorn8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/res/nashorn9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java11/HttpClientExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java11/LocalVariableSyntax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java11/Misc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java11/dummy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Atomic1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/CompletableFuture1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/ConcurrentHashMap1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/ConcurrentUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Executors1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Executors2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Executors3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Lock1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Lock2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Lock3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Lock4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Lock5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Lock6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/LongAccumulator1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/LongAdder1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Semaphore1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Semaphore2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Synchronized1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Synchronized2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/concurrent/Threads1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/lambda/Interface1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/lambda/Lambda1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/lambda/Lambda2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/lambda/Lambda3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/lambda/Lambda4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/lambda/Lambda5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/lambda/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/misc/Annotations1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/misc/CheckedFunctions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/misc/Concurrency1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/misc/Files1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/misc/Maps1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/misc/Math1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/misc/String1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/nashorn/Nashorn1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/nashorn/Nashorn10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/nashorn/Nashorn11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/nashorn/Nashorn2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/nashorn/Nashorn3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/nashorn/Nashorn4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/nashorn/Nashorn5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/nashorn/Nashorn6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/nashorn/Nashorn7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/nashorn/Nashorn8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/nashorn/Nashorn9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/nashorn/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/nashorn/SuperRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Optional1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Optional2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Streams1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Streams10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Streams11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Streams12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Streams13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Streams2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Streams3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Streams4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Streams5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Streams6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Streams7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Streams8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/stream/Streams9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/time/LocalDate1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/time/LocalDateTime1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java8-tutorial-master/src/com/winterbe/java8/samples/time/LocalTime1.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2tAt97jd31HAR9DL6Vrm7FYSKcr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/durganaresh/rdurganaresh_github/CoreJava/Java-origin",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dc7f894-1fe7-4e13-aa50-ade1f4e3c948" name="Changes" comment="" />
+      <created>1739806552870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739806552870</updated>
+      <workItem from="1739806554149" duration="334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

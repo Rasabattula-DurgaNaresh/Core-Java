@@ -39,8 +39,7 @@ public class TextBlockTricky {
   }
 
   void isValidTB() {
-    var tb = """\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020
-        """;
+    var tb = "\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020";
     System.out.println(tb.length());  //0
 
     var s = "\u0020";

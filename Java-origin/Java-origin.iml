@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/CoreJava/ATM/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CoreJava/MathAndPhysics/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CoreJava/beyblade/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CoreJava/socketBasedChat-master/SocketBasedChat/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StreamSolutions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java101/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java102/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java102/src/bootcampExercises" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

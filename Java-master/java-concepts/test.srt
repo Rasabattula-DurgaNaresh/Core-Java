@@ -1,0 +1,92 @@
+
+1
+00:00:02,6 --> 00:00:05,6
+- Let's start by defining the terms enterprise
+
+2
+00:00:05,6 --> 00:00:08,6
+- and enterprise integration.
+
+3
+00:00:08,6 --> 00:00:12,6
+- An enterprise covers the whole supply chain of a business.
+
+4
+00:00:12,6 --> 00:00:14,6
+- When I refer to enterprise systems,
+
+5
+00:00:14,6 --> 00:00:16,6
+- I'm referring to the systems that are participating
+
+6
+00:00:16,6 --> 00:00:19,6
+- in the supply chain.
+
+7
+00:00:19,6 --> 00:00:21,6
+- Enterprises include, not only internal systems,
+
+8
+00:00:21,6 --> 00:00:24,6
+- but external systems as well.
+
+9
+00:00:24,6 --> 00:00:27,6
+- In order to gain value in the supply chain,
+
+10
+00:00:27,6 --> 00:00:28,6
+- we need to make these systems communicate
+
+11
+00:00:28,6 --> 00:00:31,6
+- with one another.
+
+12
+00:00:31,6 --> 00:00:34,6
+- To accomplish this, we use enterprise
+
+13
+00:00:34,6 --> 00:00:36,6
+- integration practices.
+
+14
+00:00:36,6 --> 00:00:40,6
+- Enterprise integration connects disparate systems.
+
+15
+00:00:40,6 --> 00:00:42,6
+- Connecting these systems is complex.
+
+16
+00:00:42,6 --> 00:00:45,6
+- Enterprises are always evolving.
+
+17
+00:00:45,6 --> 00:00:47,6
+- New systems are being built, purchased,
+
+18
+00:00:47,6 --> 00:00:50,6
+- enhanced and acquired.
+
+19
+00:00:50,6 --> 00:00:53,6
+- Often we don't control all the systems in the enterprise.
+
+20
+00:00:53,6 --> 00:00:55,6
+- Finally, systems don't have the same
+
+21
+00:00:55,6 --> 00:00:57,6
+- protocols for communication.
+
+22
+00:00:57,6 --> 00:00:59,6
+- They may have different operating systems,
+
+23
+00:00:59,6 --> 00:01:03,576
+- formats, languages, etc.

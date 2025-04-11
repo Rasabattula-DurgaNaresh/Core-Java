@@ -1,0 +1,22 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url("./fonts/sansation_light.woff");
+}
+
+@font-face {
+  font-family: myFirstFont;
+  src: url("./fonts/sansation_bold.woff");
+  font-weight: bold;
+}
+
+* {
+  font-family: myFirstFont;
+}
+
+body {
+  background: cornsilk;
+
+  background-image: url("./images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}

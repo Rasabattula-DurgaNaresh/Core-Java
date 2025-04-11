@@ -1,3 +1,4 @@
+
 public class NoPackageClass {
 
   public static void main(String[] args) {
